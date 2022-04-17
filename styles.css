@@ -1,0 +1,32 @@
+*{padding: 0%;
+margin: 0%;
+box-sizing: border-box;}
+
+  nav{background-color: blue;}
+  
+  .nav{ display:flex;
+  justify-content:space-between;}
+
+  h1{background-color: aqua;
+  margin: 30px;}
+
+  ul {background-color: rgb(185, 23, 109);
+  list-style-type: none;
+  width: 1000px;
+ display: flex;
+  margin: 20px;
+  padding-top: 10px;
+ 
+  }
+  ul .inicio {background-color: rgb(174, 189, 202);
+  height: 30px;
+  width: 400px;
+  padding: 10px;
+}
+
+.contenedor {
+  display: flex;
+  text-align: center;
+  gap: 20px;
+
+}
